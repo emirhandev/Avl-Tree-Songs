@@ -1,0 +1,11 @@
+İki keklik;Erkan Ogur;1003;Turk Halk;1996
+Geceler;Ezhel;1042;Hiphop;2017
+Unutamadım;Muslum Gurses;1058;Arabesk;1986
+Donence;Baris Manco;1468;Anadolu Rock;1981
+Yolcu;Neset Ertas;1923;Turk Halk;2003
+Yolumuz Zor;Lil Zey;2456;Hiphop;2022
+Holocaust;Ceza;1496;Hiphop;2004
+Mekanın Sahibi;Norm Ender;3654;Hiphop;2019
+Dusty Blue;Charles Bradley;4268;Jazz;2013
+Nothing Else Matters;Metallica;6678;Rock;1991
+Billie Jean;Michael Jackson;7564;R&B;1982
