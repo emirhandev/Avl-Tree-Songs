@@ -9,3 +9,12 @@ Mekanın Sahibi;Norm Ender;3654;Hiphop;2019
 Dusty Blue;Charles Bradley;4268;Jazz;2013
 Nothing Else Matters;Metallica;6678;Rock;1991
 Billie Jean;Michael Jackson;7564;R&B;1982
+Shape of You, Ed Sheeran, 1001, Pop, 2017
+Hotel California, Eagles, 1002, Rock, 1976
+Despacito, Luis Fonsi, 1003, Latin Pop, 2017
+Bohemian Rhapsody, Queen, 1004, Rock, 1975
+Uptown Funk, Mark Ronson ft. Bruno Mars, 1005, Funk/Pop, 2014
+Imagine, John Lennon, 1006, Soft Rock, 1971
+Sorry, Justin Bieber, 1007, Pop, 2015
+Smells Like Teen Spirit, Nirvana, 1008, Grunge/Rock, 1991
+Hey Jude, The Beatles, 1010, Pop/Rock, 1968
